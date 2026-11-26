@@ -117,7 +117,7 @@ class FreeplayState extends MusicBeatState
 	/**
 	 * List of the ids of all the selectable categories.
 	 */
-	var categoriesIds:Array<String> = ['main', 'extras', 'joke'];
+	var categoriesIds:Array<String> = ['main', 'extras', 'joke', 'striden crisis'];
 
 	/**
 	 * A list of all category objects, generated on create.

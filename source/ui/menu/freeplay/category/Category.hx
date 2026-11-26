@@ -38,6 +38,7 @@ abstract class Category
             case 'joke': new JokeCategory();
             case 'terminal': new TerminalCategory();
             case 'misc': new MiscCategory();
+            case 'striden crisis': new StridenCrisisCategory();
             default: null;
         }
     }
