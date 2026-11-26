@@ -33,6 +33,7 @@ jobs:
         run: |
           sudo apt-get install libvlc-dev libvlccore-dev glibc-source libidn-dev libidn12
           haxelib setup ~/haxelib
+          haxelib install lime
           haxelib install hmm
           haxelib run hmm setup
           hmm install
@@ -60,6 +61,7 @@ jobs:
       - name: Install Haxelib
         run: |
           haxelib setup C:/haxelib
+          haxelib install lime
           haxelib install hmm
           haxelib run hmm setup
           hmm install
@@ -88,6 +90,7 @@ jobs:
       - name: Install Haxelib
         run: |
           haxelib setup ~/haxelib
+          haxelib install lime
           haxelib install hmm
           haxelib run hmm setup
           hmm install
