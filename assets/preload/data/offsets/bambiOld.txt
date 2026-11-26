@@ -1,0 +1,7 @@
+idle 0 0
+singLEFT -92 -18
+singDOWN -133 -32
+singUP -162 -172
+singRIGHT -49 -6
+throw -56 173
+smash -49 46

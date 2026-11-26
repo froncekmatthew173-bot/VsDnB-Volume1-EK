@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "tsukalion",
+  "scale": 3.6,
+  "danceSnap": 2,
+  "globalOffset": [
+    174.0,
+    -60.0
+  ],
+  "cameraOffsets": [
+    -569.0,
+    -701.0
+  ],
+  "offsetFilePlayer": "hjoim-port/tsukalion",
+  "offsetFileOpponent": "hjoim-port/tsukalion",
+  "icon": "sussybus",
+  "singDuration": 6.1,
+  "color": "0xFFFFFF",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

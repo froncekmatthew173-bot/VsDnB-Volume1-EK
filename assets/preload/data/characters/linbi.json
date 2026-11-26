@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "linbi",
+  "scale": 1.0,
+  "danceSnap": 2,
+  "globalOffset": [
+    60.0,
+    380.0
+  ],
+  "cameraOffsets": [
+    -40.0,
+    60.0
+  ],
+  "offsetFilePlayer": "hjoim-port/linbi",
+  "offsetFileOpponent": "hjoim-port/linbi",
+  "icon": "linbi",
+  "singDuration": 6.1,
+  "color": "0xFFFFFF",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "linbi"
+  }
+}

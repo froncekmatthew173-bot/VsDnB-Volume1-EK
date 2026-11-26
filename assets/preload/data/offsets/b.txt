@@ -1,0 +1,6 @@
+idle -50 -80
+singLEFT -27 -82
+singDOWN -31 -111
+singUP -38 -70
+singRIGHT -76 -72
+reveal -54 -68

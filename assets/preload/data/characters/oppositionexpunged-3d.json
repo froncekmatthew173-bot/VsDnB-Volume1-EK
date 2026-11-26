@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "oppositionexpunged-3d",
+  "scale": 2.75,
+  "danceSnap": 2,
+  "globalOffset": [
+    1140.0,
+    -610.0
+  ],
+  "cameraOffsets": [
+    -2380.0,
+    -1140.0
+  ],
+  "offsetFilePlayer": "hjoim-port/oppositionexpunged-3d",
+  "offsetFileOpponent": "hjoim-port/oppositionexpunged-3d",
+  "icon": "OppoExpunged",
+  "singDuration": 2.5,
+  "color": "0xFFFFFF",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "expunged"
+  }
+}

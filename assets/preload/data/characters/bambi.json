@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "bambi",
+  "scale": 0.55,
+  "danceSnap": 2,
+  "globalOffset": [
+    -200.0,
+    300.0
+  ],
+  "cameraOffsets": [
+    122.0,
+    114.0
+  ],
+  "offsetFilePlayer": "hjoim-port/bambi",
+  "offsetFileOpponent": "hjoim-port/bambi",
+  "icon": "bambineutral",
+  "singDuration": 4.0,
+  "color": "0x0DB402",
+  "flipX": false,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

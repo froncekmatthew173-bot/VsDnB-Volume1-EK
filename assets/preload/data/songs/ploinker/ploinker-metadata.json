@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "songName": "ploinker",
+  "composers": [
+    "GangstaVagabond\r\n"
+  ],
+  "artists": [],
+  "charters": [
+    "Hjoim mod chart"
+  ],
+  "coders": [],
+  "variations": [],
+  "stage": "ploink",
+  "player": "bfplinker",
+  "opponent": "blinkle",
+  "gf": "nogf",
+  "timeChanges": [
+    {
+      "numerator": 4,
+      "time": 0,
+      "bpm": 214.0,
+      "denominator": 4
+    }
+  ],
+  "keyCount": 4
+}

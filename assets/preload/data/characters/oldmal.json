@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "oldmal",
+  "scale": 2.5,
+  "danceSnap": 2,
+  "globalOffset": [
+    -390.0,
+    -580.0
+  ],
+  "cameraOffsets": [
+    -710.0,
+    -396.0
+  ],
+  "offsetFilePlayer": "hjoim-port/oldmal",
+  "offsetFileOpponent": "hjoim-port/oldmal",
+  "icon": "oldmal",
+  "singDuration": 4.0,
+  "color": "0x009B00",
+  "flipX": false,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "phillip",
+  "scale": 1.5,
+  "danceSnap": 2,
+  "globalOffset": [
+    -50.0,
+    380.0
+  ],
+  "cameraOffsets": [
+    12.0,
+    134.0
+  ],
+  "offsetFilePlayer": "hjoim-port/phillip",
+  "offsetFileOpponent": "hjoim-port/phillip",
+  "icon": "phillip",
+  "singDuration": 1.0,
+  "color": "0xFFFFFF",
+  "flipX": false,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "phillip"
+  }
+}

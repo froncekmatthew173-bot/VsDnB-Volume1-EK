@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "bfplinker",
+  "scale": 1.0,
+  "danceSnap": 2,
+  "globalOffset": [
+    0.0,
+    350.0
+  ],
+  "cameraOffsets": [
+    0.0,
+    0.0
+  ],
+  "offsetFilePlayer": "hjoim-port/bfplinker",
+  "offsetFileOpponent": "hjoim-port/bfplinker",
+  "icon": "bfawesome",
+  "singDuration": 4.0,
+  "color": "0x31B0D1",
+  "flipX": true,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "ploinker"
+  }
+}

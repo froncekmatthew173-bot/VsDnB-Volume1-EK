@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "thearchy-midanim",
+  "scale": 3.0,
+  "danceSnap": 2,
+  "globalOffset": [
+    -1180.0,
+    0.0
+  ],
+  "cameraOffsets": [
+    -770.0,
+    -1770.0
+  ],
+  "offsetFilePlayer": "hjoim-port/thearchy-midanim",
+  "offsetFileOpponent": "hjoim-port/thearchy-midanim",
+  "icon": "ThearExpunged",
+  "singDuration": 4.0,
+  "color": "0xFFFFFF",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

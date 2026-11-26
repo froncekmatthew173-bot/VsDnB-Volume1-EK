@@ -1,0 +1,4 @@
+idle -300 741
+shake -243 750
+shake-loop -243 750
+trans -103 780

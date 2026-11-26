@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "scrapped",
+  "scale": 3.7,
+  "danceSnap": 2,
+  "globalOffset": [
+    3.0,
+    -8.0
+  ],
+  "cameraOffsets": [
+    -1406.0,
+    -966.0
+  ],
+  "offsetFilePlayer": "hjoim-port/scrapped",
+  "offsetFileOpponent": "hjoim-port/scrapped",
+  "icon": "hellicons",
+  "singDuration": 6.1,
+  "color": "0x281414",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

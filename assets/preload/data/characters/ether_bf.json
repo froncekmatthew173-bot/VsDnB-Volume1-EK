@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "ether_bf",
+  "scale": 1.0,
+  "danceSnap": 2,
+  "globalOffset": [
+    7.0,
+    330.0
+  ],
+  "cameraOffsets": [
+    -50.0,
+    60.0
+  ],
+  "offsetFilePlayer": "hjoim-port/ether_bf",
+  "offsetFileOpponent": "hjoim-port/ether_bf",
+  "icon": "etherbf",
+  "singDuration": 3.5,
+  "color": "0xDD9147",
+  "flipX": true,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

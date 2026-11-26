@@ -1,0 +1,7 @@
+idle-alt -194 -127
+danceLeft -212 -138
+danceRight -211 -139
+singLEFT -108 -155
+singDOWN -203 -195
+singUP -205 -86
+singRIGHT -232 -154

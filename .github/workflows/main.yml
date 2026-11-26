@@ -44,7 +44,6 @@ jobs:
           haxelib install tjson
           haxelib install hxjsonast
           haxelib install hxCodec
-          haxelib install hxvlc
           haxelib install hscript-iris
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
           haxelib list
@@ -83,7 +82,6 @@ jobs:
           haxelib install hxjsonast
           haxelib install hxCodec
           haxelib install hscript-iris
-          haxelib install hxvlc
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
           haxelib list
         shell: cmd
@@ -121,7 +119,6 @@ jobs:
           haxelib install tjson
           haxelib install hxjsonast
           haxelib install hscript-iris
-          haxelib install hxvlc
           haxelib git hxCodec https://github.com/polybiusproxy/hxCodec
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
           haxelib list

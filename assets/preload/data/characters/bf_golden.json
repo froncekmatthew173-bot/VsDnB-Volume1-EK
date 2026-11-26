@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "bf_golden",
+  "scale": 1.0,
+  "danceSnap": 2,
+  "globalOffset": [
+    20.0,
+    350.0
+  ],
+  "cameraOffsets": [
+    0.0,
+    0.0
+  ],
+  "offsetFilePlayer": "hjoim-port/bf_golden",
+  "offsetFileOpponent": "hjoim-port/bf_golden",
+  "icon": "bfgold",
+  "singDuration": 4.0,
+  "color": "0xD19C31",
+  "flipX": true,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

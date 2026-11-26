@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "bfgoldeing",
+  "scale": 1.3,
+  "danceSnap": 2,
+  "globalOffset": [
+    -29.0,
+    234.0
+  ],
+  "cameraOffsets": [
+    25.0,
+    -7.0
+  ],
+  "offsetFilePlayer": "hjoim-port/bfgoldeing",
+  "offsetFileOpponent": "hjoim-port/bfgoldeing",
+  "icon": "patas",
+  "singDuration": 6.1,
+  "color": "0xC1FF64",
+  "flipX": true,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

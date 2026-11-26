@@ -1,0 +1,6 @@
+idle-alt3 -5 154
+idle-alt2 -7 155
+danceLeft -10 150
+danceRight -10 150
+idle-altDef -10 150
+idle-alt4 -27 154

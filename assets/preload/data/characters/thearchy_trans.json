@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "thearchy_trans",
+  "scale": 3.0,
+  "danceSnap": 2,
+  "globalOffset": [
+    -1190.0,
+    250.0
+  ],
+  "cameraOffsets": [
+    -1490.0,
+    -2860.0
+  ],
+  "offsetFilePlayer": "hjoim-port/thearchy_trans",
+  "offsetFileOpponent": "hjoim-port/thearchy_trans",
+  "icon": "ThearExpunged",
+  "singDuration": 3.8,
+  "color": "0xFFFFFF",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

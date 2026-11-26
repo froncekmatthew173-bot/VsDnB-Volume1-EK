@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "unfairnessexpunged-old",
+  "scale": 1.3,
+  "danceSnap": 2,
+  "globalOffset": [
+    -430.0,
+    -1060.0
+  ],
+  "cameraOffsets": [
+    -80.0,
+    -200.0
+  ],
+  "offsetFilePlayer": "hjoim-port/unfairnessexpunged-old",
+  "offsetFileOpponent": "hjoim-port/unfairnessexpunged-old",
+  "icon": "unfairman",
+  "singDuration": 3.9,
+  "color": "0x9B0000",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

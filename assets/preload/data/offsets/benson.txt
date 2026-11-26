@@ -1,0 +1,11 @@
+danceLeft 0 0
+danceRight 0 0
+singDOWN -31 -29
+singLEFT 1 4
+singUP 8 33
+singDOWN-alt 6 -10
+singLEFT-alt 16 11
+singRIGHT-alt 0 4
+idle-alt 6 5
+singRIGHT -30 19
+singUP-alt 4 12

@@ -1,0 +1,28 @@
+{
+  "version": "2.0.0",
+  "songName": "hjoim",
+  "composers": [
+    "AadstaPinwheel"
+  ],
+  "artists": [],
+  "charters": [
+    "Hjoim mod chart"
+  ],
+  "coders": [],
+  "variations": [
+    "shaggy"
+  ],
+  "stage": "hjoimbg",
+  "player": "hjoim_bf",
+  "opponent": "hjoim",
+  "gf": "nogf",
+  "timeChanges": [
+    {
+      "numerator": 4,
+      "time": 0,
+      "bpm": 150.0,
+      "denominator": 4
+    }
+  ],
+  "keyCount": 6
+}

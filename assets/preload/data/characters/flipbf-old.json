@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "flipbf-old",
+  "scale": 0.7,
+  "danceSnap": 2,
+  "globalOffset": [
+    -230.0,
+    20.0
+  ],
+  "cameraOffsets": [
+    -50.0,
+    210.0
+  ],
+  "offsetFilePlayer": "hjoim-port/flipbf-old",
+  "offsetFileOpponent": "hjoim-port/flipbf-old",
+  "icon": "flipbf",
+  "singDuration": 6.09999999999999,
+  "color": "0x0000FF",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

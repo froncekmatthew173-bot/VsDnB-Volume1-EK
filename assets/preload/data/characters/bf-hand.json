@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "bf-hand",
+  "scale": 1.3,
+  "danceSnap": 2,
+  "globalOffset": [
+    -10.0,
+    330.0
+  ],
+  "cameraOffsets": [
+    210.0,
+    -80.0
+  ],
+  "offsetFilePlayer": "hjoim-port/bf-hand",
+  "offsetFileOpponent": "hjoim-port/bf-hand",
+  "icon": "bf",
+  "singDuration": 4.0,
+  "color": "0x31B0D1",
+  "flipX": true,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

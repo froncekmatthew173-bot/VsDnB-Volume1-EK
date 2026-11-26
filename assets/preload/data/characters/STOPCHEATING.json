@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "STOPCHEATING",
+  "scale": 3.1,
+  "danceSnap": 2,
+  "globalOffset": [
+    -660.0,
+    -340.0
+  ],
+  "cameraOffsets": [
+    -640.0,
+    -480.0
+  ],
+  "offsetFilePlayer": "hjoim-port/STOPCHEATING",
+  "offsetFileOpponent": "hjoim-port/STOPCHEATING",
+  "icon": "STOP",
+  "singDuration": 5.99999999999999,
+  "color": "0xFF0000",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

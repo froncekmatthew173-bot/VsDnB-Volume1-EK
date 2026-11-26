@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "PURPLE_GUY-dead",
+  "scale": 0.6,
+  "danceSnap": 2,
+  "globalOffset": [
+    -140.0,
+    700.0
+  ],
+  "cameraOffsets": [
+    -150.0,
+    -550.0
+  ],
+  "offsetFilePlayer": "hjoim-port/PURPLE_GUY-dead",
+  "offsetFileOpponent": "hjoim-port/PURPLE_GUY-dead",
+  "icon": "bfpurp",
+  "singDuration": 4.0,
+  "color": "0xFF99FF",
+  "flipX": true,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

@@ -1,10 +1,21 @@
 {
   "version": "2.0.0",
   "songName": "Polygonized",
-  "composers": ["MoldyGangstaHero"],
-  "artists": ["Rapparep", "LongDonny", "Zmac"],
-  "charters": ["MoldyGangstaHero"],
-  "coders": ["MissingTextureMan101", "T5mpler"],
+  "composers": [
+    "MoldyGangstaHero"
+  ],
+  "artists": [
+    "Rapparep",
+    "LongDonny",
+    "Zmac"
+  ],
+  "charters": [
+    "MoldyGangstaHero"
+  ],
+  "coders": [
+    "MissingTextureMan101",
+    "T5mpler"
+  ],
   "variations": [],
   "stage": "red-void",
   "player": "shaggy",
@@ -18,5 +29,5 @@
       "denominator": 4
     }
   ],
-  "keyCount":6
+  "keyCount": 6
 }

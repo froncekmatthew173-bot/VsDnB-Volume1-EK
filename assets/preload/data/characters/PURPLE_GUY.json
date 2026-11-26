@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "PURPLE_GUY",
+  "scale": 0.6,
+  "danceSnap": 2,
+  "globalOffset": [
+    0.0,
+    350.0
+  ],
+  "cameraOffsets": [
+    0.0,
+    10.0
+  ],
+  "offsetFilePlayer": "hjoim-port/PURPLE_GUY",
+  "offsetFileOpponent": "hjoim-port/PURPLE_GUY",
+  "icon": "bfpurp",
+  "singDuration": 4.0,
+  "color": "0x9B11DB",
+  "flipX": true,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

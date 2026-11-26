@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "songName": "azure",
+  "composers": [
+    "AadstaPinwheel"
+  ],
+  "artists": [],
+  "charters": [
+    "Hjoim mod chart"
+  ],
+  "coders": [],
+  "variations": [],
+  "stage": "superpizza",
+  "player": "bf",
+  "opponent": "dortas",
+  "gf": "gfazure",
+  "timeChanges": [
+    {
+      "numerator": 4,
+      "time": 0,
+      "bpm": 160.0,
+      "denominator": 4
+    }
+  ],
+  "keyCount": 4
+}

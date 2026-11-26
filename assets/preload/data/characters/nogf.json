@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "nogf",
+  "scale": 1.0,
+  "danceSnap": 2,
+  "globalOffset": [
+    0.0,
+    0.0
+  ],
+  "cameraOffsets": [
+    -370.0,
+    0.0
+  ],
+  "offsetFilePlayer": "hjoim-port/nogf",
+  "offsetFileOpponent": "hjoim-port/nogf",
+  "icon": "gf",
+  "singDuration": 4.0,
+  "color": "0xA5004D",
+  "flipX": false,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

@@ -1,0 +1,10 @@
+idle-alt 578 477
+idle 578 477
+singDOWN 579 469
+singUP 576 489
+singRIGHT 542 483
+singLEFT 592 480
+singUP-alt 574 490
+singRIGHT-alt 543 482
+singDOWN-alt 579 468
+singLEFT-alt 593 481

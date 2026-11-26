@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "dortas",
+  "scale": 0.7,
+  "danceSnap": 2,
+  "globalOffset": [
+    -700.0,
+    -140.0
+  ],
+  "cameraOffsets": [
+    260.0,
+    290.0
+  ],
+  "offsetFilePlayer": "hjoim-port/dortas",
+  "offsetFileOpponent": "hjoim-port/dortas",
+  "icon": "dortas",
+  "singDuration": 6.1,
+  "color": "0x73FFEB",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "dortas"
+  }
+}

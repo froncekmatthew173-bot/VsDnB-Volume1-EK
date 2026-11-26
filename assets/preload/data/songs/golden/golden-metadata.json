@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "songName": "golden",
+  "composers": [
+    "star"
+  ],
+  "artists": [],
+  "charters": [
+    "Hjoim mod chart"
+  ],
+  "coders": [],
+  "variations": [],
+  "stage": "golden",
+  "player": "bf_golden",
+  "opponent": "benson",
+  "gf": "joke",
+  "timeChanges": [
+    {
+      "numerator": 4,
+      "time": 0,
+      "bpm": 125.0,
+      "denominator": 4
+    }
+  ],
+  "keyCount": 4
+}

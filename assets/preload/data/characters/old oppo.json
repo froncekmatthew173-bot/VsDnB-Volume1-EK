@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "old oppo",
+  "scale": 2.1,
+  "danceSnap": 2,
+  "globalOffset": [
+    304.0,
+    -880.0
+  ],
+  "cameraOffsets": [
+    -629.0,
+    -621.0
+  ],
+  "offsetFilePlayer": "hjoim-port/old oppo",
+  "offsetFileOpponent": "hjoim-port/old oppo",
+  "icon": "bruh",
+  "singDuration": 6.1,
+  "color": "0xFFFFFF",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

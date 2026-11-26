@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "thearchy_expunged_blood-3d",
+  "scale": 3.0,
+  "danceSnap": 2,
+  "globalOffset": [
+    -1190.0,
+    250.0
+  ],
+  "cameraOffsets": [
+    -1380.0,
+    -1950.0
+  ],
+  "offsetFilePlayer": "hjoim-port/thearchy_expunged_blood-3d",
+  "offsetFileOpponent": "hjoim-port/thearchy_expunged_blood-3d",
+  "icon": "ThearExpunged",
+  "singDuration": 3.8,
+  "color": "0xFFFFFF",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "expunged"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "name": "b",
+  "zoom": 0.8,
+  "player": {
+    "zIndex": 102,
+    "cameraOffsets": [
+      0,
+      0
+    ],
+    "scroll": [
+      1,
+      1
+    ],
+    "position": [
+      750.0,
+      -380.0
+    ]
+  },
+  "opponent": {
+    "zIndex": 101,
+    "cameraOffsets": [
+      0,
+      0
+    ],
+    "scroll": [
+      1,
+      1
+    ],
+    "position": [
+      0.0,
+      -380.0
+    ]
+  },
+  "gf": {
+    "zIndex": 100,
+    "cameraOffsets": [
+      0,
+      0
+    ],
+    "scroll": [
+      1,
+      1
+    ],
+    "position": [
+      250.0,
+      -380.0
+    ]
+  }
+}

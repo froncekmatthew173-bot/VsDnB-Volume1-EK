@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "CheaterExpunged-3d",
+  "scale": 1.8,
+  "danceSnap": 2,
+  "globalOffset": [
+    -290.0,
+    -1360.0
+  ],
+  "cameraOffsets": [
+    -320.0,
+    224.0
+  ],
+  "offsetFilePlayer": "hjoim-port/CheaterExpunged-3d",
+  "offsetFileOpponent": "hjoim-port/CheaterExpunged-3d",
+  "icon": "cheater",
+  "singDuration": 4.0,
+  "color": "0x009B00",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "expunged"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "songName": "opposition-old",
+  "composers": [
+    "ShiftyTM"
+  ],
+  "artists": [],
+  "charters": [
+    "Hjoim mod chart"
+  ],
+  "coders": [],
+  "variations": [],
+  "stage": "thear-old",
+  "player": "bf-holding-gf",
+  "opponent": "old oppo",
+  "gf": "gf",
+  "timeChanges": [
+    {
+      "numerator": 4,
+      "time": 0,
+      "bpm": 120.0,
+      "denominator": 4
+    }
+  ],
+  "keyCount": 4
+}

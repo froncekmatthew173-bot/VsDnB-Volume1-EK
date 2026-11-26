@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Jimmmy.png" width="1889" height="537">
+	<SubTexture name="Guy20000" x="7" y="7" width="379" height="507" frameX="-0" frameY="-16" frameWidth="379" frameHeight="523"/>
+	<SubTexture name="Guy20001" x="7" y="7" width="379" height="507" frameX="-0" frameY="-16" frameWidth="379" frameHeight="523"/>
+	<SubTexture name="Guy20002" x="402" y="7" width="367" height="512" frameX="-5" frameY="-11" frameWidth="379" frameHeight="523"/>
+	<SubTexture name="Guy20003" x="402" y="7" width="367" height="512" frameX="-5" frameY="-11" frameWidth="379" frameHeight="523"/>
+	<SubTexture name="Guy20004" x="785" y="7" width="359" height="518" frameX="-9" frameY="-5" frameWidth="379" frameHeight="523"/>
+	<SubTexture name="Guy20005" x="785" y="7" width="359" height="518" frameX="-9" frameY="-5" frameWidth="379" frameHeight="523"/>
+	<SubTexture name="Guy20006" x="1160" y="7" width="354" height="522" frameX="-11" frameY="-1" frameWidth="379" frameHeight="523"/>
+	<SubTexture name="Guy20007" x="1160" y="7" width="354" height="522" frameX="-11" frameY="-1" frameWidth="379" frameHeight="523"/>
+	<SubTexture name="Guy20008" x="1530" y="7" width="352" height="523" frameX="-12" frameY="-0" frameWidth="379" frameHeight="523"/>
+	<SubTexture name="Guy20009" x="1530" y="7" width="352" height="523" frameX="-12" frameY="-0" frameWidth="379" frameHeight="523"/>
+	<SubTexture name="Guy20010" x="1530" y="7" width="352" height="523" frameX="-12" frameY="-0" frameWidth="379" frameHeight="523"/>
+	<SubTexture name="Guy20011" x="1530" y="7" width="352" height="523" frameX="-12" frameY="-0" frameWidth="379" frameHeight="523"/>
+	<SubTexture name="Guy20012" x="1530" y="7" width="352" height="523" frameX="-12" frameY="-0" frameWidth="379" frameHeight="523"/>
+	<SubTexture name="Guy20013" x="1530" y="7" width="352" height="523" frameX="-12" frameY="-0" frameWidth="379" frameHeight="523"/>
+	<SubTexture name="Guy20014" x="1530" y="7" width="352" height="523" frameX="-12" frameY="-0" frameWidth="379" frameHeight="523"/>
+</TextureAtlas>

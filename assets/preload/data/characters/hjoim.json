@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "hjoim",
+  "scale": 0.6,
+  "danceSnap": 2,
+  "globalOffset": [
+    -100.0,
+    290.0
+  ],
+  "cameraOffsets": [
+    -480.0,
+    -160.0
+  ],
+  "offsetFilePlayer": "hjoim-port/hjoim",
+  "offsetFileOpponent": "hjoim-port/hjoim",
+  "icon": "hjoimn",
+  "singDuration": 6.1,
+  "color": "0x000000",
+  "flipX": false,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "hjoim"
+  }
+}

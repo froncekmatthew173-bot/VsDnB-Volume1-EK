@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "songName": "opposition",
+  "composers": [
+    "ShiftyTM"
+  ],
+  "artists": [],
+  "charters": [
+    "Hjoim mod chart"
+  ],
+  "coders": [],
+  "variations": [],
+  "stage": "thear",
+  "player": "bf-holding-gf",
+  "opponent": "oppositionexpunged-3d",
+  "gf": "gf",
+  "timeChanges": [
+    {
+      "numerator": 4,
+      "time": 0,
+      "bpm": 120.0,
+      "denominator": 4
+    }
+  ],
+  "keyCount": 4
+}

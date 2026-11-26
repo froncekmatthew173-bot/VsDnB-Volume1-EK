@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "gf",
+  "scale": 1.0,
+  "danceSnap": 2,
+  "globalOffset": [
+    0.0,
+    0.0
+  ],
+  "cameraOffsets": [
+    0.0,
+    0.0
+  ],
+  "offsetFilePlayer": "hjoim-port/offsets/gf",
+  "offsetFileOpponent": "hjoim-port/offsets/gf",
+  "icon": "gf",
+  "singDuration": 4.0,
+  "color": "0xA5004D",
+  "flipX": false,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

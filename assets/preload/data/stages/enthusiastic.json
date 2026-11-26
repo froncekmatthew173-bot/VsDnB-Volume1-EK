@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "name": "enthusiastic",
+  "zoom": 0.4,
+  "player": {
+    "zIndex": 102,
+    "cameraOffsets": [
+      0,
+      0
+    ],
+    "scroll": [
+      1,
+      1
+    ],
+    "position": [
+      1520.0,
+      -350.0
+    ]
+  },
+  "opponent": {
+    "zIndex": 101,
+    "cameraOffsets": [
+      0,
+      0
+    ],
+    "scroll": [
+      1,
+      1
+    ],
+    "position": [
+      -20.0,
+      -400.0
+    ]
+  },
+  "gf": {
+    "zIndex": 100,
+    "cameraOffsets": [
+      0,
+      0
+    ],
+    "scroll": [
+      1,
+      1
+    ],
+    "position": [
+      0.0,
+      -454545.0
+    ]
+  }
+}

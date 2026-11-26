@@ -1,0 +1,9 @@
+singLEFT -9 10
+singDOWN 0 -30
+singUP -6 50
+singRIGHT 0 27
+idle 0 0
+idle-loop 0 0
+singLEFT-loop -9 10
+singRIGHT-loop 0 27
+singUP-loop -6 50

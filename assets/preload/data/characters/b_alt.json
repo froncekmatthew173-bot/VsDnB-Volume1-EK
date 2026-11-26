@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "b_alt",
+  "scale": 0.8,
+  "danceSnap": 2,
+  "globalOffset": [
+    -560.0,
+    -400.0
+  ],
+  "cameraOffsets": [
+    210.0,
+    250.0
+  ],
+  "offsetFilePlayer": "hjoim-port/b_alt",
+  "offsetFileOpponent": "hjoim-port/b_alt",
+  "icon": "B",
+  "singDuration": 6.1,
+  "color": "0xFFFFFF",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "b"
+  }
+}

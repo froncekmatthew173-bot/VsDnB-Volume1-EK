@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "joimorigin",
+  "scale": 2.0,
+  "danceSnap": 2,
+  "globalOffset": [
+    -770.0,
+    50.0
+  ],
+  "cameraOffsets": [
+    -160.0,
+    -580.0
+  ],
+  "offsetFilePlayer": "hjoim-port/joimorigin",
+  "offsetFileOpponent": "hjoim-port/joimorigin",
+  "icon": "origin",
+  "singDuration": 4.0,
+  "color": "0x080B07",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

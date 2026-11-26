@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "fucked_bf",
+  "scale": 0.5,
+  "danceSnap": 2,
+  "globalOffset": [
+    0.0,
+    350.0
+  ],
+  "cameraOffsets": [
+    510.0,
+    -160.0
+  ],
+  "offsetFilePlayer": "hjoim-port/fucked_bf",
+  "offsetFileOpponent": "hjoim-port/fucked_bf",
+  "icon": "hjoimbf",
+  "singDuration": 4.0,
+  "color": "0xFFFFFF",
+  "flipX": true,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

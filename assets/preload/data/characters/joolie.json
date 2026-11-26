@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "joolie",
+  "scale": 0.9,
+  "danceSnap": 2,
+  "globalOffset": [
+    -30.0,
+    410.0
+  ],
+  "cameraOffsets": [
+    30.0,
+    -80.0
+  ],
+  "offsetFilePlayer": "hjoim-port/joolie",
+  "offsetFileOpponent": "hjoim-port/joolie",
+  "icon": "joolieers",
+  "singDuration": 4.0,
+  "color": "0x313131",
+  "flipX": true,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

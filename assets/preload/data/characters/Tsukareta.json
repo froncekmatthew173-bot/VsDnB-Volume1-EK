@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "Tsukareta",
+  "scale": 1.2,
+  "danceSnap": 2,
+  "globalOffset": [
+    -1110.0,
+    -790.0
+  ],
+  "cameraOffsets": [
+    -340.0,
+    -80.0
+  ],
+  "offsetFilePlayer": "hjoim-port/Tsukareta",
+  "offsetFileOpponent": "hjoim-port/Tsukareta",
+  "icon": "tsuka",
+  "singDuration": 3.9,
+  "color": "0xFFFFFF",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

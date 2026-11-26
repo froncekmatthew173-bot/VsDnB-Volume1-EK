@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "idiot",
+  "scale": 1.3,
+  "danceSnap": 2,
+  "globalOffset": [
+    0.0,
+    0.0
+  ],
+  "cameraOffsets": [
+    -80.0,
+    270.0
+  ],
+  "offsetFilePlayer": "hjoim-port/idiot",
+  "offsetFileOpponent": "hjoim-port/idiot",
+  "icon": "none",
+  "singDuration": 7.49999999999999,
+  "color": "0xA1A1A1",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

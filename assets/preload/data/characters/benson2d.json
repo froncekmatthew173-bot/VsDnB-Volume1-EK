@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "benson2d",
+  "scale": 0.7,
+  "danceSnap": 2,
+  "globalOffset": [
+    -330.0,
+    0.0
+  ],
+  "cameraOffsets": [
+    230.0,
+    190.0
+  ],
+  "offsetFilePlayer": "hjoim-port/benson2d",
+  "offsetFileOpponent": "hjoim-port/benson2d",
+  "icon": "benson2D",
+  "singDuration": 4.0,
+  "color": "0xFFFF00",
+  "flipX": false,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

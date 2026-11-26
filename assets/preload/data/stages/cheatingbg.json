@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "name": "CheatingBG",
+  "zoom": 0.4,
+  "player": {
+    "zIndex": 102,
+    "cameraOffsets": [
+      0,
+      0
+    ],
+    "scroll": [
+      1,
+      1
+    ],
+    "position": [
+      1120.0,
+      -380.0
+    ]
+  },
+  "opponent": {
+    "zIndex": 101,
+    "cameraOffsets": [
+      0,
+      0
+    ],
+    "scroll": [
+      1,
+      1
+    ],
+    "position": [
+      0.0,
+      500.0
+    ]
+  },
+  "gf": {
+    "zIndex": 100,
+    "cameraOffsets": [
+      0,
+      0
+    ],
+    "scroll": [
+      1,
+      1
+    ],
+    "position": [
+      90000.0,
+      50.0
+    ]
+  }
+}

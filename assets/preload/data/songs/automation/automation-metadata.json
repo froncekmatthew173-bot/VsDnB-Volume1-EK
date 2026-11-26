@@ -1,0 +1,32 @@
+{
+  "version": "2.0.0",
+  "songName": "automation",
+  "composers": [
+    "SpartaOrb"
+  ],
+  "artists": [],
+  "charters": [
+    "Hjoim mod chart"
+  ],
+  "coders": [],
+  "variations": [],
+  "stage": "bumbo",
+  "player": "bf",
+  "opponent": "bumbo",
+  "gf": "gf",
+  "timeChanges": [
+    {
+      "numerator": 4,
+      "time": 0,
+      "bpm": 120.0,
+      "denominator": 4
+    },
+    {
+      "numerator": 4,
+      "time": 0.0,
+      "bpm": 180.0,
+      "denominator": 4
+    }
+  ],
+  "keyCount": 4
+}

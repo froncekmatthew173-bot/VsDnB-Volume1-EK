@@ -1,0 +1,32 @@
+{
+  "version": "2.0.0",
+  "songName": "phillip",
+  "composers": [
+    "owen_so_cool"
+  ],
+  "artists": [],
+  "charters": [
+    "Hjoim mod chart"
+  ],
+  "coders": [],
+  "variations": [],
+  "stage": "white",
+  "player": "philbf",
+  "opponent": "phillip",
+  "gf": "alein",
+  "timeChanges": [
+    {
+      "numerator": 4,
+      "time": 0,
+      "bpm": 160.0,
+      "denominator": 4
+    },
+    {
+      "numerator": 4,
+      "time": 60000.0,
+      "bpm": 522.0,
+      "denominator": 4
+    }
+  ],
+  "keyCount": 4
+}

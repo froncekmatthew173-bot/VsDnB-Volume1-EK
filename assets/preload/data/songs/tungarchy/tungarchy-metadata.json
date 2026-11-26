@@ -1,0 +1,28 @@
+{
+  "version": "2.0.0",
+  "songName": "tungarchy",
+  "composers": [
+    "ShiftyTM & Khanzeh"
+  ],
+  "artists": [],
+  "charters": [
+    "Hjoim mod chart"
+  ],
+  "coders": [],
+  "variations": [
+    "alternate"
+  ],
+  "stage": "thearchynoeffects",
+  "player": "bfgoldeing",
+  "opponent": "tsukaliontrans",
+  "gf": "nogf",
+  "timeChanges": [
+    {
+      "numerator": 4,
+      "time": 0,
+      "bpm": 220.0,
+      "denominator": 4
+    }
+  ],
+  "keyCount": 4
+}

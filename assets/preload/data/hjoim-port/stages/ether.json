@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "name": "ether",
+  "zoom": 0.4,
+  "player": {
+    "scroll": [
+      1,
+      1
+    ],
+    "cameraOffsets": [
+      0,
+      0
+    ],
+    "position": [
+      1520.0,
+      -350.0
+    ],
+    "zIndex": 102
+  },
+  "opponent": {
+    "scroll": [
+      1,
+      1
+    ],
+    "cameraOffsets": [
+      0,
+      0
+    ],
+    "position": [
+      -20.0,
+      -400.0
+    ],
+    "zIndex": 101
+  },
+  "gf": {
+    "scroll": [
+      1,
+      1
+    ],
+    "cameraOffsets": [
+      0,
+      0
+    ],
+    "position": [
+      0.0,
+      -454545.0
+    ],
+    "zIndex": 100
+  }
+}

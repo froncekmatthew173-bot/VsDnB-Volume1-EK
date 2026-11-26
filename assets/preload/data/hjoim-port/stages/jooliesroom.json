@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "name": "jooliesroom",
+  "zoom": 0.7,
+  "player": {
+    "scroll": [
+      1,
+      1
+    ],
+    "cameraOffsets": [
+      0,
+      0
+    ],
+    "position": [
+      800.0,
+      -350.0
+    ],
+    "zIndex": 102
+  },
+  "opponent": {
+    "scroll": [
+      1,
+      1
+    ],
+    "cameraOffsets": [
+      0,
+      0
+    ],
+    "position": [
+      -20.0,
+      -350.0
+    ],
+    "zIndex": 101
+  },
+  "gf": {
+    "scroll": [
+      1,
+      1
+    ],
+    "cameraOffsets": [
+      0,
+      0
+    ],
+    "position": [
+      -2000.0,
+      -1000.0
+    ],
+    "zIndex": 100
+  }
+}

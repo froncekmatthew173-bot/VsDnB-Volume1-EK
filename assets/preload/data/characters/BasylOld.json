@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "BasylOld",
+  "scale": 1.3,
+  "danceSnap": 2,
+  "globalOffset": [
+    0.0,
+    0.0
+  ],
+  "cameraOffsets": [
+    -610.0,
+    200.0
+  ],
+  "offsetFilePlayer": "hjoim-port/BasylOld",
+  "offsetFileOpponent": "hjoim-port/BasylOld",
+  "icon": "basyl",
+  "singDuration": 4.0,
+  "color": "0x592FA0",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

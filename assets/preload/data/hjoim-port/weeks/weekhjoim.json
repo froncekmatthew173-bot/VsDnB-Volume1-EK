@@ -1,0 +1,27 @@
+{
+	"storyName": "HJOIM",
+	"difficulties": "Hard, Shaggy",
+	"hideFreeplay": false,
+	"weekBackground": "hjoim",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"hjoim",
+			"hjoimn",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

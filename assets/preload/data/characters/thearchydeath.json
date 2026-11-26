@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "thearchydeath",
+  "scale": 1.0,
+  "danceSnap": 2,
+  "globalOffset": [
+    -210.0,
+    0.0
+  ],
+  "cameraOffsets": [
+    140.0,
+    260.0
+  ],
+  "offsetFilePlayer": "hjoim-port/thearchydeath",
+  "offsetFileOpponent": "hjoim-port/thearchydeath",
+  "icon": "thearchydeath",
+  "singDuration": 4.0,
+  "color": "0x31B0D1",
+  "flipX": true,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

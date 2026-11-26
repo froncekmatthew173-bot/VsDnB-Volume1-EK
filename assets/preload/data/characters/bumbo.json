@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "bumbo",
+  "scale": 1.0,
+  "danceSnap": 2,
+  "globalOffset": [
+    90.0,
+    -20.0
+  ],
+  "cameraOffsets": [
+    -20.0,
+    -50.0
+  ],
+  "offsetFilePlayer": "hjoim-port/bumbo",
+  "offsetFileOpponent": "hjoim-port/bumbo",
+  "icon": "bumbo",
+  "singDuration": 4.0,
+  "color": "0x0073FF",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "bumbo"
+  }
+}

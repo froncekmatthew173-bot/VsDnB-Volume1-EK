@@ -1,0 +1,13 @@
+singDOWN 90 -160
+singUP -36 27
+idle 0 0
+idle2 -22 0
+idle_s 0 0
+powerup 0 0
+catch 140 90
+hold 90 100
+h_half 90 0
+fall 130 0
+kneel 110 -123
+singLEFT 130 -36
+singRIGHT -61 -118

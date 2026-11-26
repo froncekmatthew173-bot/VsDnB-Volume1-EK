@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "alein",
+  "scale": 1.2,
+  "danceSnap": 2,
+  "globalOffset": [
+    -50.0,
+    380.0
+  ],
+  "cameraOffsets": [
+    -168.0,
+    -176.0
+  ],
+  "offsetFilePlayer": "hjoim-port/alein",
+  "offsetFileOpponent": "hjoim-port/alein",
+  "icon": "alein",
+  "singDuration": 1.0,
+  "color": "0xFFFFFF",
+  "flipX": false,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

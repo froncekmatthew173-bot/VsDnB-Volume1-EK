@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "marb",
+  "scale": 1.55,
+  "danceSnap": 2,
+  "globalOffset": [
+    -440.0,
+    -150.0
+  ],
+  "cameraOffsets": [
+    -150.0,
+    40.0
+  ],
+  "offsetFilePlayer": "hjoim-port/marb",
+  "offsetFileOpponent": "hjoim-port/marb",
+  "icon": "marb",
+  "singDuration": 3.5,
+  "color": "0xD74B00",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

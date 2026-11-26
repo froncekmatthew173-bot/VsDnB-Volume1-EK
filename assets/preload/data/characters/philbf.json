@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "philbf",
+  "scale": 1.0,
+  "danceSnap": 2,
+  "globalOffset": [
+    0.0,
+    350.0
+  ],
+  "cameraOffsets": [
+    0.0,
+    0.0
+  ],
+  "offsetFilePlayer": "hjoim-port/philbf",
+  "offsetFileOpponent": "hjoim-port/philbf",
+  "icon": "bf",
+  "singDuration": 1.0,
+  "color": "0x31B0D1",
+  "flipX": true,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "phillip"
+  }
+}

@@ -1,0 +1,8 @@
+singLEFT -364 389
+singRIGHT -114 327
+singDOWN -363 406
+singUP -91 254
+idle -170 241
+idle-alt -316 229
+idle-alt-loop -316 229
+trans -286 224

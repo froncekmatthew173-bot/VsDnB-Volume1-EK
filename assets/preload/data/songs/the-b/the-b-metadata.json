@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "songName": "the-b",
+  "composers": [
+    "Joolie"
+  ],
+  "artists": [],
+  "charters": [
+    "Hjoim mod chart"
+  ],
+  "coders": [],
+  "variations": [],
+  "stage": "b",
+  "player": "bf",
+  "opponent": "b",
+  "gf": "weedman",
+  "timeChanges": [
+    {
+      "numerator": 4,
+      "time": 0,
+      "bpm": 125.0,
+      "denominator": 4
+    }
+  ],
+  "keyCount": 4
+}

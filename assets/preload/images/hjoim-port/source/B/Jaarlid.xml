@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Jaarlid.png" width="486" height="2491">
+	<SubTexture name="Guy10000" x="7" y="2012" width="472" height="472" frameX="-7" frameY="-18" frameWidth="480" frameHeight="491"/>
+	<SubTexture name="Guy10001" x="7" y="2012" width="472" height="472" frameX="-7" frameY="-18" frameWidth="480" frameHeight="491"/>
+	<SubTexture name="Guy10002" x="7" y="1520" width="462" height="476" frameX="-12" frameY="-15" frameWidth="480" frameHeight="491"/>
+	<SubTexture name="Guy10003" x="7" y="1520" width="462" height="476" frameX="-12" frameY="-15" frameWidth="480" frameHeight="491"/>
+	<SubTexture name="Guy10004" x="7" y="1020" width="464" height="484" frameX="-6" frameY="-7" frameWidth="480" frameHeight="491"/>
+	<SubTexture name="Guy10005" x="7" y="1020" width="464" height="484" frameX="-6" frameY="-7" frameWidth="480" frameHeight="491"/>
+	<SubTexture name="Guy10006" x="7" y="514" width="467" height="490" frameX="-1" frameY="-1" frameWidth="480" frameHeight="491"/>
+	<SubTexture name="Guy10007" x="7" y="514" width="467" height="490" frameX="-1" frameY="-1" frameWidth="480" frameHeight="491"/>
+	<SubTexture name="Guy10008" x="7" y="7" width="467" height="491" frameX="-0" frameY="-0" frameWidth="480" frameHeight="491"/>
+	<SubTexture name="Guy10009" x="7" y="7" width="467" height="491" frameX="-0" frameY="-0" frameWidth="480" frameHeight="491"/>
+	<SubTexture name="Guy10010" x="7" y="7" width="467" height="491" frameX="-0" frameY="-0" frameWidth="480" frameHeight="491"/>
+	<SubTexture name="Guy10011" x="7" y="7" width="467" height="491" frameX="-0" frameY="-0" frameWidth="480" frameHeight="491"/>
+	<SubTexture name="Guy10012" x="7" y="7" width="467" height="491" frameX="-0" frameY="-0" frameWidth="480" frameHeight="491"/>
+	<SubTexture name="Guy10013" x="7" y="7" width="467" height="491" frameX="-0" frameY="-0" frameWidth="480" frameHeight="491"/>
+	<SubTexture name="Guy10014" x="7" y="7" width="467" height="491" frameX="-0" frameY="-0" frameWidth="480" frameHeight="491"/>
+</TextureAtlas>

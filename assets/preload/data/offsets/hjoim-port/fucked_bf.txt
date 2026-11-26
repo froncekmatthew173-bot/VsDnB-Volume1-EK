@@ -1,0 +1,9 @@
+singUPmiss 1113 477
+singDOWNmiss 1113 477
+singRIGHTmiss 1117 478
+singLEFTmiss 1116 480
+idle 1111 477
+singUP 1113 477
+singLEFT 1111 477
+singRIGHT 1114 478
+singDOWN 1108 479

@@ -1,0 +1,2 @@
+idle -4 0
+trans 0 0

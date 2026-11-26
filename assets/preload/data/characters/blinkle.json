@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "blinkle",
+  "scale": 1.2,
+  "danceSnap": 2,
+  "globalOffset": [
+    0.0,
+    200.0
+  ],
+  "cameraOffsets": [
+    -70.0,
+    240.0
+  ],
+  "offsetFilePlayer": "hjoim-port/blinkle",
+  "offsetFileOpponent": "hjoim-port/blinkle",
+  "icon": "blinkle",
+  "singDuration": 4.0,
+  "color": "0xFFE900",
+  "flipX": false,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "ploinker"
+  }
+}

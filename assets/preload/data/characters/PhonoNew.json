@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "PhonoNew",
+  "scale": 2.10000000000001,
+  "danceSnap": 2,
+  "globalOffset": [
+    -86.0,
+    -500.0
+  ],
+  "cameraOffsets": [
+    -79.0,
+    -41.0
+  ],
+  "offsetFilePlayer": "hjoim-port/PhonoNew",
+  "offsetFileOpponent": "hjoim-port/PhonoNew",
+  "icon": "phononew",
+  "singDuration": 6.1,
+  "color": "0xC4B6A8",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

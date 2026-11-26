@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "oldmalu",
+  "scale": 1.4,
+  "danceSnap": 2,
+  "globalOffset": [
+    -853.0,
+    -1585.0
+  ],
+  "cameraOffsets": [
+    -160.0,
+    -6.0
+  ],
+  "offsetFilePlayer": "hjoim-port/oldmalu",
+  "offsetFileOpponent": "hjoim-port/oldmalu",
+  "icon": "unfairman",
+  "singDuration": 4.0,
+  "color": "0xF30000",
+  "flipX": false,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

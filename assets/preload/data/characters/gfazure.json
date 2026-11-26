@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "gfazure",
+  "scale": 1.0,
+  "danceSnap": 2,
+  "globalOffset": [
+    -30.0,
+    -90.0
+  ],
+  "cameraOffsets": [
+    0.0,
+    0.0
+  ],
+  "offsetFilePlayer": "hjoim-port/gfazure",
+  "offsetFileOpponent": "hjoim-port/gfazure",
+  "icon": "gf",
+  "singDuration": 4.0,
+  "color": "0xA5004D",
+  "flipX": false,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "gf"
+  }
+}

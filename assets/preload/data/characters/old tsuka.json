@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "old tsuka",
+  "scale": 8.79999999999999,
+  "danceSnap": 2,
+  "globalOffset": [
+    -6.0,
+    -290.0
+  ],
+  "cameraOffsets": [
+    -909.0,
+    -931.0
+  ],
+  "offsetFilePlayer": "hjoim-port/old tsuka",
+  "offsetFileOpponent": "hjoim-port/old tsuka",
+  "icon": "oldtsuka",
+  "singDuration": 6.1,
+  "color": "0xFFFFFF",
+  "flipX": false,
+  "antialiasing": true,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

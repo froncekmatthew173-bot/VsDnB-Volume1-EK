@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "pov",
+  "scale": 1.0,
+  "danceSnap": 2,
+  "globalOffset": [
+    -190.0,
+    290.0
+  ],
+  "cameraOffsets": [
+    -190.0,
+    -70.0
+  ],
+  "offsetFilePlayer": "hjoim-port/pov",
+  "offsetFileOpponent": "hjoim-port/pov",
+  "icon": "bf",
+  "singDuration": 4.0,
+  "color": "0x31B0D1",
+  "flipX": true,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

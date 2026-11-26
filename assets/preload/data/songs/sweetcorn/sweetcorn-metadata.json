@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "songName": "sweetcorn",
+  "composers": [
+    "Joolie"
+  ],
+  "artists": [],
+  "charters": [
+    "Hjoim mod chart"
+  ],
+  "coders": [],
+  "variations": [],
+  "stage": "farmday",
+  "player": "bf",
+  "opponent": "bambi",
+  "gf": "gf",
+  "timeChanges": [
+    {
+      "numerator": 4,
+      "time": 0,
+      "bpm": 120.0,
+      "denominator": 4
+    }
+  ],
+  "keyCount": 4
+}

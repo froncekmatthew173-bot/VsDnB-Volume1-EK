@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "weedman",
+  "scale": 1.1,
+  "danceSnap": 2,
+  "globalOffset": [
+    -130.0,
+    -270.0
+  ],
+  "cameraOffsets": [
+    -40.0,
+    0.0
+  ],
+  "offsetFilePlayer": "hjoim-port/weedman",
+  "offsetFileOpponent": "hjoim-port/weedman",
+  "icon": "bf",
+  "singDuration": 4.0,
+  "color": "0x31B0D1",
+  "flipX": true,
+  "antialiasing": false,
+  "countdownData": {
+    "graphicPath": "normal",
+    "soundPath": "default"
+  }
+}

@@ -1,0 +1,203 @@
+{
+	"storyName": "Week strident",
+	"difficulties": "Hard, Shaggy",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"sweetcorn",
+			"bambineutral",
+			[
+				0,
+				195,
+				0
+			]
+		],
+		[
+			"field",
+			"icon-bambineutral",
+			[
+				100,
+				115,
+				0
+			]
+		],
+		[
+			"cob",
+			"icon-bambineutral",
+			[
+				0,
+				75,
+				100
+			]
+		],
+		[
+			"malice",
+			"unfairman",
+			[
+				105,
+				0,
+				0
+			]
+		],
+		[
+			"opposition",
+			"oppoexpunged",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"thearchy",
+			"thearexpunged",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"ether",
+			"marb",
+			[
+				255,
+				75,
+				0
+			]
+		],
+		[
+			"azure",
+			"dormenu",
+			[
+				120,
+				200,
+				255
+			]
+		],
+		[
+			"automation",
+			"automenu",
+			[
+				60,
+				80,
+				255
+			]
+		],
+		[
+			"golden",
+			"benson",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"enthusiastic",
+			"basyl",
+			[
+				126,
+				40,
+				255
+			]
+		],
+		[
+			"flip phone",
+			"limm",
+			[
+				46,
+				120,
+				253
+			]
+		],
+		[
+			"ploinker",
+			"icon-blinkle",
+			[
+				240,
+				253,
+				13
+			]
+		],
+		[
+			"theophany",
+			"benson2d",
+			[
+				235,
+				213,
+				13
+			]
+		],
+		[
+			"the b",
+			"b",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"hjoim",
+			"hjoimn",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"phillip",
+			"phillip",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"malice old",
+			"oldmal",
+			[
+				0,
+				195,
+				0
+			]
+		],
+		[
+			"opposition old",
+			"bruh",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"thearchy old",
+			"icon-ThearExpungedold",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "idk"
+}
